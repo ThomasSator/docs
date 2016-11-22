@@ -6,19 +6,19 @@
 
 ***
 > 
-- Du solltest die [Facebook Messenger Übersicht](https://developers.facebook.com/docs/messenger-platform/product-overview) gelesen haben bevor du mit hier mit der Dokumentation weiter machst.
-- Please note that this documentation is for WordPress version only. If you use PHP package, try [PHP Standalone](/docs/standalone) documentation
+- Du solltest die [Facebook Messenger Übersicht](https://developers.facebook.com/docs/messenger-platform/product-overview) gelesen haben bevor du hier mit der Dokumentation weiter machst.
+- Diese Dokumentation ist ausschließlich für WordPress Version. Falls du die Standalone (PHP) benutzen möchtest, findest du hier [PHP Standalone](/docs/standalone) die aktuelle Dokumentation.
 
 <a name="installation"></a>
 ## Installation
 
 <a name="site-requirements"></a>
-### Site Requirements
-In order to run Giga Messenger Bot (GigaAI), your server should meet these minimum requirements:
+### Server Voraussetzungen
+Damit der Giga Messenger Bot (GigaAI) läuft prüfe bitte ob dein Server die Minimalvoraussetzungen erfüllt:
 
 - PHP 5.3.2+
-- `cURL` should enabled
-- Your site (or webhook) should `https`
+- `cURL` erlaubt
+- Die Seite muß SSL Verschlüsselt sein `https`
 
 However, it's highly recommended that you run latest WordPress & PHP version.
 
